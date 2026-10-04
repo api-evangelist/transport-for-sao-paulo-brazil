@@ -39,7 +39,6 @@ apis:
   - name: Transport for Sao Paulo, Brazil
     description: "SPTrans"
     humanURL: http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/
-    baseURL: http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/
     tags:
       - Transportation
     properties:
